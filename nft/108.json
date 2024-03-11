@@ -9,8 +9,12 @@
     ],
     "buttons": [
       {
-        "label": "Join Garuda TON",
+        "label": "Telegram Channel",
         "uri": "https://t.me/GarudaTON"
+      },
+      {
+        "label": "Telegram Chat",
+        "uri": "https://t.me/GarudaInt"
       }
     ],
     "description": "A myth garuda the top on ecosystem.\n\nEvery holder will get exclusive our project like as airdrop, free mint from our project, giveaway and much more.."
