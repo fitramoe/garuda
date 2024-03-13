@@ -9,6 +9,10 @@
     ],
     "buttons": [
       {
+        "label": "Burn NFT",
+        "uri": "ton://transfer/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c?&nft=EQC-OmcMsDJ1KLGPA5twqgEc7AufQqTXxzqilGCZ8NbmjLK-"
+      },
+      {
         "label": "Telegram Channel",
         "uri": "https://t.me/GarudaTON"
       },
@@ -21,5 +25,5 @@
         "uri": "https://t.me/GarudaHolderBot"
       }
     ],
-    "description": "A myth garuda the top on ecosystem.\n\nEvery holder will get exclusive our project like as airdrop, free mint from our project, giveaway and much more.."
+    "description": "Every holder will get exclusive our project like as airdrop, free mint from our project in the future, giveaway and much more.."
 }

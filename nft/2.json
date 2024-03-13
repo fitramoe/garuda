@@ -1,6 +1,6 @@
 {
     "name": "Garuda #3",
-    "image": "https://fitra.moe/garuda/00003.jpg",
+    "image": "ipfs://QmUJY9LFthmEWfLsdAYDLvFdUnegVgRGCDA4zqZkiFgSrM",
     "attributes": [
       {
         "trait_type": "RARITY",
@@ -8,6 +8,10 @@
       }
     ],
     "buttons": [
+      {
+        "label": "Burn NFT",
+        "uri": "ton://transfer/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c?&nft=EQBpPXk6IfFj-VqkCHm8ez7I2oHkP18_sp1IEBqVHM62b1n_"
+      },
       {
         "label": "Telegram Channel",
         "uri": "https://t.me/GarudaTON"
@@ -21,5 +25,5 @@
         "uri": "https://t.me/GarudaHolderBot"
       }
     ],
-    "description": "A myth garuda the top on ecosystem.\n\nEvery holder will get exclusive our project like as airdrop, free mint from our project, giveaway and much more.."
+    "description": "Every holder will get exclusive our project like as airdrop, free mint from our project, giveaway and much more.."
 }
