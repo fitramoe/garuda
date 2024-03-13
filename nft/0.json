@@ -9,10 +9,6 @@
     ],
     "buttons": [
       {
-        "label": "Burn NFT",
-        "uri": "ton://transfer/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c?&nft=EQC-OmcMsDJ1KLGPA5twqgEc7AufQqTXxzqilGCZ8NbmjLK-"
-      },
-      {
         "label": "Telegram Channel",
         "uri": "https://t.me/GarudaTON"
       },
