@@ -1,0 +1,25 @@
+{
+    "name": "Garuda #146",
+    "image": "https://ipfs.io/ipfs/QmVu57YTadgs3aV8EvaUPd9VTEJVvDVaJioXR47isWuNYy",
+    "attributes": [
+      {
+        "trait_type": "RARITY",
+        "value": "Epic"
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Telegram Channel",
+        "uri": "https://t.me/GarudaTON"
+      },
+      {
+        "label": "Telegram Chat",
+        "uri": "https://t.me/GarudaInt"
+      },
+      {
+        "label": "Holder Chat",
+        "uri": "https://t.me/GarudaHolderBot"
+      }
+    ],
+    "description": "Every holder will get exclusive our project like as airdrop, free mint from our project in the future, giveaway and much more.."
+}
